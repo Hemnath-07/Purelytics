@@ -1,7 +1,6 @@
 "use client";
-import { parseFile } from "@/lib/fileParser";
-import { useStore } from "@/store/useStore";
-
+import { useStore } from "../store/useStore";
+import { parseFile } from "../lib/fileParser";
 export default function UploadBox() {
   const { setData } = useStore();
 

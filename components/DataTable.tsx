@@ -1,5 +1,5 @@
 "use client";
-import { useStore } from "@/store/useStore";
+import { useStore } from "../store/useStore";
 
 export default function DataTable() {
   const { data } = useStore();
