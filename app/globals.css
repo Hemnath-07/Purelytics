@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "../styles/themes.css";
+
+body {
+  transition: all 0.3s ease;
+}

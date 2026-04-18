@@ -1,0 +1,7 @@
+body.light { background: #f1f5f9; }
+body.dark { background: #0f172a; color: white; }
+
+body.ocean { background: linear-gradient(to right, #1e3a8a, #06b6d4); }
+body.forest { background: linear-gradient(to right, #14532d, #4ade80); }
+body.sunset { background: linear-gradient(to right, #f97316, #ec4899); }
+body.neon { background: black; color: cyan; }
